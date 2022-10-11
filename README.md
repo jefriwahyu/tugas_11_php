@@ -36,7 +36,7 @@ Membuat <b>CRUD API.</b>
 
 ## 4. Hapus (Delete)
 
-- <p>Data berhasil dihapus, disini kita menghapus data Malacia dengan id <i><b>"2"</b></i>.</p>
+- <p>Data yang akan di hapus adalah data Malacia dengan id <i><b>"2"</b></i>.</p>
 
 ![11_hapus](https://user-images.githubusercontent.com/92837751/195018312-a3e5355f-af49-4a0c-8aa6-dd2ca3b8275e.jpg)
 
